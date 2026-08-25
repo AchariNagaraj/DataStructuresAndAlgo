@@ -13,4 +13,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AchariNagaraj/DataStructuresAndAlgo/tree/master/0002-add-two-numbers) |
+## Hash Table
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/AchariNagaraj/DataStructuresAndAlgo/tree/master/0438-find-all-anagrams-in-a-string) |
+## String
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/AchariNagaraj/DataStructuresAndAlgo/tree/master/0438-find-all-anagrams-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/AchariNagaraj/DataStructuresAndAlgo/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
