@@ -29,19 +29,20 @@ class Solution {
                 p_arr[p.charAt(k)-'a']++;
                 s_arr[s.charAt(k)-'a']++;
             }
+            while(j<s.length()){
+                if(Arrays.equals(s_arr,p_arr)){
+                    list.add(i);
+                }
+                s_arr[s.charAt(i)-'a']--;
+                i++;
+                j++;
+                if(j<s.length()){
+                    s_arr[s.charAt(j)-'a']++;
+                }  
+            }
         }
 
-        while(j<s.length()){
-            if(Arrays.equals(s_arr,p_arr)){
-                list.add(i);
-            }
-            s_arr[s.charAt(i)-'a']--;
-            i++;
-            j++;
-            if(j<s.length()){
-                s_arr[s.charAt(j)-'a']++;
-            }  
-        }
+        
         return list;
     }
 }
