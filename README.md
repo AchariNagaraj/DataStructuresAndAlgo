@@ -35,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/AchariNagaraj/DataStructuresAndAlgo/tree/master/0567-permutation-in-string) |
+## Array
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/AchariNagaraj/DataStructuresAndAlgo/tree/master/0704-binary-search) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/AchariNagaraj/DataStructuresAndAlgo/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
