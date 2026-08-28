@@ -7,11 +7,11 @@ class Solution {
         while(j<s.length()){
             char ch=s.charAt(j);     
             if(lastIndex[ch]!=-1){
-                while(i<=j && s.charAt(i)!=ch){
+                while(i<=lastIndex[ch]){
                     lastIndex[s.charAt(i)]=-1;//make window invalid
                     i++;
                 }
-                i++;
+                
             }
             lastIndex[ch]=j;
             maxLength=Math.max(maxLength,j-i+1);
