@@ -1,7 +1,7 @@
 class Solution {
     public int mySqrt(int x) {
-       int left=1,right=x;
-       int mid=1;
+       int left=0,right=x;
+       int mid=0;
        if(x==0 || x==1){ //base condition
         return x;
        }
