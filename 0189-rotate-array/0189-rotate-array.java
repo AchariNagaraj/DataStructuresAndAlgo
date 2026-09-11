@@ -1,5 +1,5 @@
 class Solution {
-    public void rotateHelper(int i,int j,int[] nums){
+    private void rotateHelper(int i,int j,int[] nums){
         while(i<j){
             int temp=nums[i];
             nums[i]=nums[j];
