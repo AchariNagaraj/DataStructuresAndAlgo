@@ -64,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/AchariNagaraj/DataStructuresAndAlgo/tree/master/0069-sqrtx) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/AchariNagaraj/DataStructuresAndAlgo/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
